@@ -109,7 +109,7 @@ class Core
     }
 }
 
-$core= new Core;
+$core = new Core;
 
 $core->calculateTotal()
     ->calculateTurns()
